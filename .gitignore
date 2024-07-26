@@ -1,0 +1,110 @@
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+# Backup files #
+# Distribution / packaging
+# Django #
+# Environments
+# Excel y Word
+# If you are using PyCharm #
+# Installer logs
+# Jupyter Notebook
+# Package control specific files Package
+# Python #
+# SageMath parsed files
+# Sublime Text #
+# Unit test / coverage reports
+# Visual Studio Code #
+# celery
+# mkdocs documentation
+# mypy
+# pyenv
+# sftp configuration file
+*$py.class
+*.bak
+*.cover
+*.db
+*.doc
+*.docx
+*.egg
+*.egg-info/
+*.iws /out/
+*.log
+*.manifest
+*.pot
+*.py[cod]
+*.pyc
+*.sage.py
+*.spec
+*.stTheme.cache
+*.sublime-project
+*.sublime-workspace
+*.tmPreferences.cache
+*.tmlanguage.cache
+*.xls
+*.xlsx
+.Python build/
+.cache
+.code-workspace
+.coverage
+.coverage.*
+.eggs/
+.env
+.history
+.hypothesis/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/dataSources.xml
+.idea/**/dataSources/
+.idea/**/dynamic.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/sqlDataSources.xml
+.idea/**/tasks.xml
+.idea/**/uiDesigner.xml
+.idea/**/workspace.xml
+.idea/dictionaries
+.installed.cfg
+.ipynb_checkpoints
+.mypy_cache/
+.pytest_cache/
+.python-version
+.tox/
+.venv
+.vscode/*
+.web
+/site
+Control.ca-bundle
+Control.ca-list
+Control.last-run
+Control.system-ca-bundle
+ENV/
+GitHub.sublime-settings
+__pycache__
+__pycache__/
+assets/external/
+celerybeat-schedule.*
+coverage.xml
+db.sqlite3
+develop-eggs/
+dist/
+downloads/
+eggs/
+env.bak/
+env/
+htmlcov/
+lib/
+lib64/
+media
+nosetests.xml
+parts/
+pip-delete-this-directory.txt
+pip-log.txt
+sdist/
+sftp-config.json
+var/
+venv.bak/
+venv/
+virtual
+wheels/
