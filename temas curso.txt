@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=2u7JlBEavx0&t=728s
 00:02:18 | Reflex
 00:04:04 | Introducción
 00:13:55 | Configuración
+            pip install Reflex
+            reflex init
+            reflex run
 00:25:58 | App contador
 00:39:07 | App Chat GPT
 01:09:56 | Conclusiones
