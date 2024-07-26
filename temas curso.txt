@@ -10,5 +10,8 @@ https://www.youtube.com/watch?v=2u7JlBEavx0&t=728s
             reflex init
             reflex run
 00:25:58 | App contador
+            /.web, esta el proyecto compilado javascript de fondo
+            /assets, es la carpeta de recursos estaticos (imagenes, audios, etc)
+            cambiar la configuracion en rxconfig.py
 00:39:07 | App Chat GPT
 01:09:56 | Conclusiones
